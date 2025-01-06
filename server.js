@@ -12,7 +12,7 @@ import certificationRoutes from "./routes/certification.routes.js";
 import chatroomRoutes from "./routes/chatroom.routes.js";
 import userRoutes from "./routes/user.route.js";
 
-// Load environment variables from .env file
+// Load environment variables from .env file 
 dotenv.config();
 
 // Initialize Express app
